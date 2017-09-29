@@ -21,4 +21,4 @@ Album.new
 Album.new
 Album.new
 
-Album.count
+puts Album.count

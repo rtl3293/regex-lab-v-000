@@ -16,3 +16,9 @@ class Album
     @@album_count
   end
 end
+
+Album.new
+Album.new
+Album.new
+
+Album.count
